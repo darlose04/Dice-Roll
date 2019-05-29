@@ -4,7 +4,7 @@ class Die extends Component {
   render() {
     return (
       <div>
-        <p>This is the die component.</p>
+        <h1><i className="fas fa-dice-one"></i></h1>
       </div>
     )
   }
